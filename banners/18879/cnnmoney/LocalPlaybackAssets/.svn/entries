@@ -1,0 +1,54 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/18879/cnnmoney/LocalPlaybackAssets
+svn://subversion.t-3.com/chase/banners
+
+
+
+2009-09-22T00:25:45.102993Z
+487
+david.dinh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+UnicastComponentSWF.swf
+file
+
+
+
+
+2009-09-23T13:43:14.000000Z
+83ffa0ff495661cb9cf68fc7f2d96812
+2009-09-22T00:25:45.102993Z
+487
+david.dinh
+has-props
+
+UnicastVideoComponentSWF.swf
+file
+
+
+
+
+2009-09-23T13:43:14.000000Z
+c8cfc2266535da282d9e048ca62dc333
+2009-09-22T00:25:45.102993Z
+487
+david.dinh
+has-props
+

@@ -1,0 +1,22 @@
+﻿<flash_project name="headlines" version="1">
+    <project_file path=".:CH_DE_headlines_chg_Sep07_300x600.fla" filetype="fla" profile="" />
+    <project_file path=".:CH_DE_headlines_chg_Sep07_300x800.fla" filetype="fla" profile="" />
+    <project_file path=".:CH_DE_headlines_chg_Sep07_120x240.fla" filetype="fla" profile="" />
+    <project_file path=".:CH_DE_headlines_chg_Sep07_180x150.fla" filetype="fla" profile="" />
+    <project_file path=".:CH_DE_headlines_chg_Sep07_250x250.fla" filetype="fla" profile="" />
+    <project_file path=".:CH_DE_headlines_chg_Sep07_160x600.fla" filetype="fla" profile="" />
+    <project_file path=".:Tweens.as" filetype="as" />
+    <project_file path=".:CH_DE_headlines_triple_Sep07_300x250.fla" filetype="fla" profile="" />
+    <project_file path=".:CH_DE_headlines_triple_Sep07_728x90.fla" filetype="fla" profile="" />
+    <project_file path=".:CH_DE_headlines_more_Sep07_728x90.fla" filetype="fla" profile="" />
+    <project_file path=".:CH_DE_headlines_more_Sep07_300x250.fla" filetype="fla" profile="" />
+    <project_file path=".:CH_DE_headlines_more_Sep07_160x600.fla" filetype="fla" profile="" />
+    <project_file path=".:CH_DE_headlines_chg_Sep07_728x90.fla" filetype="fla" profile="" />
+    <project_file path=".:CH_DE_headlines_chg_Sep07_468x60.fla" filetype="fla" profile="" />
+    <project_file path=".:CH_DE_headlines_chg_Sep07_300x250.fla" filetype="fla" profile="" />
+    <project_file path=".:CH_DE_headlines_triple_Sep07_160x600.fla" filetype="fla" profile="" />
+    <project_file path=".:14206_Headlines_sharedCode.as" filetype="as" />
+    <project_file path=".:CH_DE_headlines_chg_Sep07_336x850.fla" filetype="fla" profile="" />
+    <project_file path=".:CH_DE_headlines_chg_Sep07_120x600.fla" filetype="fla" profile="" />
+    <project_file path=".:CH_DE_headlines_chg_Sep07_336x280.fla" filetype="fla" profile="" />
+</flash_project>

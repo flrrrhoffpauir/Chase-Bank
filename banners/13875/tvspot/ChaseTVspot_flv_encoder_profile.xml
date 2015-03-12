@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FLVCoreSettings Version="1">
+
+  <Version>2</Version>
+
+  <EncodeVideo>
+    <VideoCodec>spark</VideoCodec>
+    <VideoDataRate>800000</VideoDataRate>
+    <KeyFrameRate>30</KeyFrameRate>
+    <Resize>
+      <Width>400</Width>
+      <Height>230</Height>
+      <RespectAspectRatio>true</RespectAspectRatio>
+    </Resize>
+    <Deinterlace>true</Deinterlace>
+  </EncodeVideo>
+
+  <EncodeAudio>
+    <AudioCodec>mp3</AudioCodec>
+    <AudioDataRate>96000</AudioDataRate>
+    <AudioChannels>2</AudioChannels>
+  </EncodeAudio>
+
+  <Crop>
+    <Top>56</Top>
+    <Left>0</Left>
+    <Right>0</Right>
+    <Bottom>57</Bottom>
+  </Crop>
+
+</FLVCoreSettings>

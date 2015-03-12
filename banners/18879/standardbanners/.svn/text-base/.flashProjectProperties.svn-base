@@ -1,0 +1,23 @@
+<projectDescription>
+  <id>1252967497156</id>
+  <name>18879_this_is_the_story_300x250_v2</name>
+  <asVersion>1</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/helmutgranda3/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/boundClass_as2.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/helmutgranda3/Library/Application Support/Adobe/Flash CS4/en/Configuration/Project/templates/standardClass_as2.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///Macintosh HD/Applications/xampp/xamppfiles/htdocs/chase/banners/18879/concept1/18879_this_is_the_story_300x250_v2.fla</defaultApp>
+  <rootURI>file:///Macintosh HD/Applications/xampp/xamppfiles/htdocs/chase/banners/18879/concept1/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="18879_this_is_the_story_300x250_v3.fla">file:///Macintosh HD/Applications/xampp/xamppfiles/htdocs/chase/banners/18879/concept1/18879_this_is_the_story_300x250_v3.fla</uri>
+    <uri label="concept1_300x250_v2.fla">file:///Macintosh HD/Applications/xampp/xamppfiles/htdocs/chase/banners/18879/concept1/concept1_300x250_v2.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="concept1_300x250.fla">file:///Macintosh HD/Applications/xampp/xamppfiles/htdocs/chase/banners/18879/concept1/concept1_300x250.fla</uri>
+    <uri label="concept1_300x250_v2.fla">file:///Macintosh HD/Applications/xampp/xamppfiles/htdocs/chase/banners/18879/concept1/concept1_300x250_v2.fla</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

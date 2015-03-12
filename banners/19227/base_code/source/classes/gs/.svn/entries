@@ -1,0 +1,147 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/19227/base_code/source/classes/gs
+svn://subversion.t-3.com/chase/banners
+
+
+
+2010-04-07T20:23:13.488482Z
+604
+junie.threatt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+TweenAlign.as
+file
+
+
+
+
+2010-12-03T22:21:56.000000Z
+0ade22314f187b65097ff56eba2c3f01
+2010-04-07T20:23:13.488482Z
+604
+junie.threatt
+has-props
+
+TweenNano.as
+file
+
+
+
+
+2010-12-03T22:21:56.000000Z
+69ab0a26a6c70dc1fe5445a7f13bbc4f
+2010-04-07T20:23:13.488482Z
+604
+junie.threatt
+has-props
+
+plugins
+dir
+
+TweenLite.as
+file
+
+
+
+
+2010-12-03T22:21:56.000000Z
+c64737f38f8b001263d1a2bfbb500868
+2010-04-07T20:23:13.488482Z
+604
+junie.threatt
+has-props
+
+OverwriteManager.as
+file
+
+
+
+
+2010-12-03T22:21:56.000000Z
+3808108991ecb127dee795968eeb224e
+2010-04-07T20:23:13.488482Z
+604
+junie.threatt
+has-props
+
+events
+dir
+
+easing
+dir
+
+TimelineLite.as
+file
+
+
+
+
+2010-12-03T22:21:56.000000Z
+6956240d7249ea0cc94cd1c7206787ec
+2010-04-07T20:23:13.488482Z
+604
+junie.threatt
+has-props
+
+core
+dir
+
+TweenFilterLite.as
+file
+
+
+
+
+2010-12-03T22:21:56.000000Z
+b17aa0ff71ed7f8ca8ef858a8a0ae9b1
+2010-04-07T20:23:13.488482Z
+604
+junie.threatt
+has-props
+
+data
+dir
+
+TweenMax.as
+file
+
+
+
+
+2010-12-03T22:21:56.000000Z
+d9fc66f2df0a25d13f818e4a2ec9ebff
+2010-04-07T20:23:13.488482Z
+604
+junie.threatt
+has-props
+
+TimelineMax.as
+file
+
+
+
+
+2010-12-03T22:21:56.000000Z
+5b915e1c27493ca7e763a5d82467a49a
+2010-04-07T20:23:13.488482Z
+604
+junie.threatt
+has-props
+

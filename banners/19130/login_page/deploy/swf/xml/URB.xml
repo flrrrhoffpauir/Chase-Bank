@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<merchandising>
+		<item>
+			<image><![CDATA[swf/images/slide1.jpg]]></image>
+			<frameNum><![CDATA[FRAME_ONE]]></frameNum>
+		</item>
+		<item>
+			<image><![CDATA[swf/images/slide2.jpg]]></image>
+			<frameNum><![CDATA[FRAME_TWO]]></frameNum>
+		</item>
+		<item>
+			<image><![CDATA[swf/images/slide3.jpg]]></image>
+			<frameNum><![CDATA[FRAME_THREE]]></frameNum>
+		</item>
+		<item>
+			<image><![CDATA[swf/images/slide4.jpg]]></image>
+			<frameNum><![CDATA[FRAME_FOUR]]></frameNum>
+		</item>
+	</merchandising>

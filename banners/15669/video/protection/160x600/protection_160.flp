@@ -1,0 +1,14 @@
+﻿<flash_project name="protection_160" version="1">
+    <project_file path=".:160x600_250x600_left/CH_OB_protectExp_Jan08_160x600_shell.fla" filetype="fla" profile="" />
+    <project_file path=".:160x600_250x600_left/CH_OB_protectExp_Jan08_160x600_exp.fla" filetype="fla" profile="" />
+    <project_file path=".:160x600_250x600_left/CH_OB_protectExp_Jan08_160x600_col.fla" filetype="fla" profile="" />
+    <project_file path=".:160x600_480x600_left/CH_OB_protectExp_Jan08_160x600_col.fla" filetype="fla" profile="" />
+    <project_file path=".:160x600_480x600_left/CH_OB_protectExp_Jan08_160x600_exp.fla" filetype="fla" profile="" />
+    <project_file path=".:160x600_480x600_left/CH_OB_protectExp_Jan08_160x600_shell.fla" filetype="fla" profile="" />
+    <project_file path=".:160x600_480x600_right/CH_OB_protectExp_Jan08_160x600_exp.fla" filetype="fla" profile="" />
+    <project_file path=".:160x600_480x600_right/CH_OB_protectExp_Jan08_160x600_col.fla" filetype="fla" profile="" />
+    <project_file path=".:160x600_480x600_right/CH_OB_protectExp_Jan08_160x600_shell.fla" filetype="fla" profile="" />
+    <project_file path=".:160x600_525x600_left/CH_OB_protectExp_Jan08_160x600_shell.fla" filetype="fla" profile="" />
+    <project_file path=".:160x600_525x600_left/CH_OB_protectExp_Jan08_160x600_col.fla" filetype="fla" profile="" />
+    <project_file path=".:160x600_525x600_left/CH_OB_protectExp_Jan08_160x600_exp.fla" filetype="fla" profile="" />
+</flash_project>

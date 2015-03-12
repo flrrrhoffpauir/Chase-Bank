@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app>
+	
+	<nav>
+			
+		<navitem>
+			<id><![CDATA[0]]></id>
+			<image><![CDATA[swfs/home_hero4_tier2.swf]]></image>
+			<hotspot>
+				<url><![CDATA[https://ultimaterewardsshop.chase.com/rewards/landing.do]]></url>
+				<x_coord><![CDATA[606]]></x_coord>
+				<y_coord><![CDATA[136]]></y_coord>
+				<width><![CDATA[90]]></width>
+				<height><![CDATA[22]]></height>
+				<visible><![CDATA[false]]></visible>
+			</hotspot>                              
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[1]]></id>
+			<image><![CDATA[swfs/home_hero4_tier1_points.swf]]></image>
+			<hotspot>
+				<url><![CDATA[https://ultimaterewardsearn.chase.com/]]></url>
+				<x_coord><![CDATA[596]]></x_coord>
+				<y_coord><![CDATA[136]]></y_coord>
+				<width><![CDATA[100]]></width>
+				<height><![CDATA[22]]></height>
+				<visible><![CDATA[false]]></visible>
+			</hotspot>                              
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[2]]></id>
+			<image><![CDATA[swfs/home_hero4_tier1_cash.swf]]></image>
+			<hotspot>
+				<url><![CDATA[https://ultimaterewardsearn.chase.com/]]></url>
+				<x_coord><![CDATA[606]]></x_coord>
+				<y_coord><![CDATA[136]]></y_coord>
+				<width><![CDATA[90]]></width>
+				<height><![CDATA[22]]></height>
+				<visible><![CDATA[false]]></visible>
+			</hotspot>                              
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[3]]></id>
+			<image><![CDATA[swfs/home_hero3_tier1_points.swf]]></image>
+			<hotspot>
+				<url><![CDATA[https://ultimaterewardsshop.chase.com/rewards/landing.do]]></url>
+				<x_coord><![CDATA[606]]></x_coord>
+				<y_coord><![CDATA[136]]></y_coord>
+				<width><![CDATA[90]]></width>
+				<height><![CDATA[22]]></height>
+				<visible><![CDATA[false]]></visible>
+			</hotspot>                              
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[4]]></id>
+			<image><![CDATA[swfs/home_hero2_tier2_v4_option3.swf]]></image>
+			<hotspot>
+				<url><![CDATA[https://ultimaterewards.chase.com/Detail.aspx?detailid=TRP00029&Category=travel]]></url>
+				<x_coord><![CDATA[559]]></x_coord>
+				<y_coord><![CDATA[137]]></y_coord>
+				<width><![CDATA[136]]></width>
+				<height><![CDATA[22]]></height>
+				<visible><![CDATA[false]]></visible>
+			</hotspot>                              
+		</navitem>
+			
+	</nav>
+	
+	<pausetime><![CDATA[9]]></pausetime>
+	<accessibility><![CDATA[INSERT ACCESSIBILITY TEXT HERE]]></accessibility>
+	
+</app>

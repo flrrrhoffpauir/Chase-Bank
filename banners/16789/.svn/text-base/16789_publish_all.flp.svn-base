@@ -1,0 +1,27 @@
+﻿<flash_project name="16789_publish_all" version="1">
+    <project_file path=".:sand/CH_free_sand_120x600.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:sand/CH_free_sand_728x90.fla" filetype="fla" profile="" />
+    <project_file path=".:sand/CH_free_sand_300x250.fla" filetype="fla" profile="" />
+    <project_file path=".:sand/CH_free_sand_468x60.fla" filetype="fla" profile="" />
+    <project_file path=".:sand/CH_free_sand_160x600.fla" filetype="fla" profile="" />
+    <project_file path=".:dr_credit/CH_free_DR_credit_160x600.fla" filetype="fla" profile="" />
+    <project_file path=".:dr_credit/CH_free_DR_credit_300x250.fla" filetype="fla" profile="" />
+    <project_file path=".:dr_credit/CH_free_DR_credit_120x600.fla" filetype="fla" profile="" />
+    <project_file path=".:dr_credit/CH_free_DR_credit_728x90.fla" filetype="fla" profile="" />
+    <project_file path=".:dr_credit/CH_free_DR_credit_468x60.fla" filetype="fla" profile="" />
+    <project_file path=".:dr_cash/CH_free_DR_cash_468x60.fla" filetype="fla" profile="" />
+    <project_file path=".:dr_cash/CH_free_DR_cash_300x250.fla" filetype="fla" profile="" />
+    <project_file path=".:dr_cash/CH_free_DR_cash_728x90.fla" filetype="fla" profile="" />
+    <project_file path=".:dr_cash/CH_free_DR_cash_160x600.fla" filetype="fla" profile="" />
+    <project_file path=".:dr_cash/CH_free_DR_cash_120x600.fla" filetype="fla" profile="" />
+    <project_file path=".:spin_change/CH_free_spinChg_icon_468x60.fla" filetype="fla" profile="" />
+    <project_file path=".:spin_change/CH_free_spinChg_icon_300x250.fla" filetype="fla" profile="" />
+    <project_file path=".:spin_change/CH_free_spinChg_icon_120x600.fla" filetype="fla" profile="" />
+    <project_file path=".:spin_change/CH_free_spinChg_icon_160x600.fla" filetype="fla" profile="" />
+    <project_file path=".:spin_change/CH_free_spinChg_icon_728x90.fla" filetype="fla" profile="" />
+    <project_file path=".:daisy/CH_free_daisy_160x600.fla" filetype="fla" profile="" />
+    <project_file path=".:daisy/CH_free_daisy_728x90.fla" filetype="fla" profile="" />
+    <project_file path=".:daisy/CH_free_daisy_120x600.fla" filetype="fla" profile="" />
+    <project_file path=".:daisy/CH_free_daisy_468x60.fla" filetype="fla" profile="" />
+    <project_file path=".:daisy/CH_free_daisy_300x250.fla" filetype="fla" profile="" />
+</flash_project>

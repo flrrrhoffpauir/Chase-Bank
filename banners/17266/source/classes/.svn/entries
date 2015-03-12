@@ -1,0 +1,61 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/17266/source/classes
+svn://subversion.t-3.com/chase/banners
+
+
+
+2008-09-05T23:15:03.125277Z
+284
+frank.duran
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+tweening
+dir
+
+Chasilism2.as
+file
+
+
+
+
+2009-09-23T13:33:44.000000Z
+9e2f779dd1e444a3dde447cb2d7282d4
+2008-08-29T19:27:28.590025Z
+274
+frank.duran
+
+gs
+dir
+
+views
+dir
+
+Chasilism.as
+file
+
+
+
+
+2009-09-23T13:33:44.000000Z
+223194c916379227e7f5daf4878085fd
+2008-09-05T23:15:03.125277Z
+284
+frank.duran
+

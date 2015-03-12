@@ -1,0 +1,17 @@
+﻿<flash_project name="publishall" version="1">
+    <project_file path=".:loyalty_template.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path=".:faster_hero1_v1.fla" filetype="fla" profile="" />
+    <project_file path=".:home_hero1_v1.fla" filetype="fla" profile="" />
+    <project_file path=".:home_hero1_v2.fla" filetype="fla" profile="" />
+    <project_file path=".:home_hero1_v4.fla" filetype="fla" profile="" />
+    <project_file path=".:home_hero1_v5.fla" filetype="fla" profile="" />
+    <project_file path=".:home_hero2_v1.fla" filetype="fla" profile="" />
+    <project_file path=".:home_hero2_v2.fla" filetype="fla" profile="" />
+    <project_file path=".:home_hero3_v2.fla" filetype="fla" profile="" />
+    <project_file path=".:home_hero3_v4.fla" filetype="fla" profile="" />
+    <project_file path=".:home_hero4_v2.fla" filetype="fla" profile="" />
+    <project_file path=".:shopping_hero1_v1.fla" filetype="fla" profile="" />
+    <project_file path=".:travel_hero1_v1.fla" filetype="fla" profile="" />
+    <project_file path=".:travel_hero2_v2.fla" filetype="fla" profile="" />
+    <project_file path=".:travel_hero4_v2.fla" filetype="fla" profile="" />
+</flash_project>

@@ -1,0 +1,54 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/15669/real-time/247/300x250/classes
+svn://subversion.t-3.com/chase/banners
+
+
+
+2008-02-15T16:41:53.941199Z
+83
+junie.threatt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+ChasilismPortal.as
+file
+
+
+
+
+2009-09-23T13:36:53.000000Z
+e0b4a066d6ce383b8b5220c84b8baeaf
+2008-02-15T16:41:53.941199Z
+83
+junie.threatt
+has-props
+
+ChasilismPortalsHolder.as
+file
+
+
+
+
+2009-09-23T13:36:53.000000Z
+8e56f8876e7111bd9b84b947fbf8b2a7
+2008-02-15T16:41:53.941199Z
+83
+junie.threatt
+has-props
+

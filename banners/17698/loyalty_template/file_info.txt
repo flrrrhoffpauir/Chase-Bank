@@ -1,0 +1,32 @@
+
+Loyalty Soft Coded Content
+
+File descriptions:
+
+Source:
+classes folder - Required to run. XML path can be edited in the App.as file on line 70.
+events, models, and gs folders shouldn't be edited.
+flas folder - template FLA can be found here
+
+Deploy:
+You'll find the template SWF here
+data folder - sample XML file found here
+images - sample heros found here
+
+
+Data.xml description:
+
+Only editable values will appear as <![CDATA[VALUE]]> where VALUE is editable. No quotes needed.
+
+Each navitem contains information for each of the images that appear 0 is the first, 1 the second, etc:
+id: Should start at 0 and ascend for every new navitem.
+image: URL to image. (can load SWF, JPEG, GIF, and PNG files).
+url: URL hotspot links to.
+x_coord: X coordinate hotspot starts drawing.
+y_coord: Y coordinate hotspot starts drawing.
+width: Hotspot width.
+height: Hotspot height.
+visible: Used for testing. If set to true, hotspot is visible. If set to false, hotspot is invisible.
+
+pausetime: Time in seconds each image is visible before switching to the next.
+accessibility: Place accessibility text here.

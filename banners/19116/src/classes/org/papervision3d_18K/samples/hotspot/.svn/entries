@@ -1,0 +1,41 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/19116/src/classes/org/papervision3d_18K/samples/hotspot
+svn://subversion.t-3.com/chase/banners
+
+
+
+2009-11-18T23:54:43.479839Z
+546
+tim.harold
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+HelloHotspot.as
+file
+
+
+
+
+2009-11-30T20:49:54.000000Z
+107b846de2a6279107f39dbf35cedb9d
+2009-11-18T23:54:43.479839Z
+546
+tim.harold
+has-props
+

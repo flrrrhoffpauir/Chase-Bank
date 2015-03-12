@@ -1,0 +1,55 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/20187/ink_approach_1/com/greensock/plugins/helpers
+svn://subversion.t-3.com/chase/banners
+
+
+
+2010-09-07T23:17:43.781198Z
+775
+junie.threatt
+
+
+svn:special svn:externals svn:needs-lock
+
+ArrayTweenInfo.as
+file
+
+
+
+
+2010-07-14T16:01:19.000000Z
+a7cb424e1db229e4ecb672a154d585f1
+2010-09-07T23:17:43.781198Z
+775
+junie.threatt
+has-props
+
+PhysicsProp.as
+file
+
+
+
+
+2010-07-14T16:01:19.000000Z
+fbe7ef0919057eca3657da734579f4f2
+2010-09-07T23:17:43.781198Z
+775
+junie.threatt
+has-props
+
+Physics2DProp.as
+file
+
+
+
+
+2010-07-14T16:01:19.000000Z
+54f5738f45d608c9689ff67304052e0c
+2010-09-07T23:17:43.781198Z
+775
+junie.threatt
+has-props
+

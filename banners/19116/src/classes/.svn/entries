@@ -1,0 +1,67 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/19116/src/classes
+svn://subversion.t-3.com/chase/banners
+
+
+
+2009-11-19T00:15:36.711911Z
+547
+tim.harold
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+plane
+dir
+
+flexicard
+dir
+
+Hotspot.as
+file
+
+
+
+
+2009-11-30T20:49:54.000000Z
+0fbb4b38e062e82466cf07c86c3146fe
+2009-11-18T23:54:43.479839Z
+546
+tim.harold
+
+org
+dir
+
+globe
+dir
+
+gs
+dir
+
+CTA.as
+file
+
+
+
+
+2009-11-30T20:49:54.000000Z
+831555e5142a404b246b3c1c37811ad7
+2009-11-18T23:54:43.479839Z
+546
+tim.harold
+

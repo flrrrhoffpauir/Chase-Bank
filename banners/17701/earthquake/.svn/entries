@@ -1,0 +1,86 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/17701/earthquake
+svn://subversion.t-3.com/chase/banners
+
+
+
+2008-12-18T17:23:56.022885Z
+372
+justin.shrier
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+_temp
+dir
+
+17701_earthquake.swf
+file
+
+
+
+
+2009-09-23T13:32:16.000000Z
+563d0f2a2b2704b825089d7eadcbbdca
+2008-12-18T17:23:56.022885Z
+372
+justin.shrier
+has-props
+
+17701_earthquake_slider.swf
+file
+
+
+
+
+2009-09-23T13:32:16.000000Z
+f7408b2ac5e291acf648d8d3254f227c
+2008-11-18T22:15:14.218679Z
+364
+junie.threatt
+has-props
+
+17701_earthquake.fla
+file
+
+
+
+
+2009-09-23T13:32:16.000000Z
+8c01b92077489933fed7e4690e8e2f84
+2008-12-18T17:23:56.022885Z
+372
+justin.shrier
+has-props
+
+17701_earthquake_slider.fla
+file
+
+
+
+
+2009-09-23T13:32:16.000000Z
+461f76aa6bd33de03819684084ad9a61
+2008-11-13T23:43:57.625873Z
+359
+junie.threatt
+has-props
+
+classes
+dir
+

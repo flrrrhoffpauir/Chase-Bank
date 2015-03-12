@@ -1,0 +1,41 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/18973/qran/src/classes/gs/events
+svn://subversion.t-3.com/chase/banners
+
+
+
+2009-10-23T16:47:00.843289Z
+533
+tim.harold
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+TweenEvent.as
+file
+
+
+
+
+2009-11-30T20:50:41.000000Z
+4f6f3f94d733c10568f28ca356a594ee
+2009-10-23T16:47:00.843289Z
+533
+tim.harold
+has-props
+

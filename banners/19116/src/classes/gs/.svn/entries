@@ -1,0 +1,83 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/19116/src/classes/gs
+svn://subversion.t-3.com/chase/banners
+
+
+
+2009-11-18T23:54:43.479839Z
+546
+tim.harold
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+utils
+dir
+
+TweenLite.as
+file
+
+
+
+
+2009-11-30T20:49:54.000000Z
+8d41a2f9a1b53b54ebb693f1db84a45c
+2009-11-18T23:54:43.479839Z
+546
+tim.harold
+has-props
+
+easing
+dir
+
+TransformItemTF.as
+file
+
+
+
+
+2009-11-30T20:49:54.000000Z
+2f02ab1a0cc309fcc872ebf44e4b1a88
+2009-11-18T23:54:43.479839Z
+546
+tim.harold
+
+TransformManager.as
+file
+
+
+
+
+2009-11-30T20:49:54.000000Z
+bd67ed3e07678b1ccbc795cdb59ec08d
+2009-11-18T23:54:43.479839Z
+546
+tim.harold
+
+TransformItem.as
+file
+
+
+
+
+2009-11-30T20:49:54.000000Z
+af056659ea22dc0caa06963adbc1245f
+2009-11-18T23:54:43.479839Z
+546
+tim.harold
+

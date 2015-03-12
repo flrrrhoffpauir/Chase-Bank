@@ -1,0 +1,52 @@
+8
+
+dir
+816
+svn://subversion.t-3.com/chase/banners/19227/base_code/source/classes/application/plugins/org/papervision3d/core/io/exporters
+svn://subversion.t-3.com/chase/banners
+
+
+
+2010-04-07T20:23:13.488482Z
+604
+junie.threatt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+ExportCollada.as
+file
+
+
+
+
+2010-12-03T20:03:51.000000Z
+297403f6e7c5ca607502079419b0b115
+2010-04-07T20:23:13.488482Z
+604
+junie.threatt
+
+ExportFileFormat.as
+file
+
+
+
+
+2010-12-03T20:03:51.000000Z
+153b5fed81ddb4c1218196372b0b4408
+2010-04-07T20:23:13.488482Z
+604
+junie.threatt
+

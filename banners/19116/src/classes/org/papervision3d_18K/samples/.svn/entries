@@ -1,0 +1,43 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/19116/src/classes/org/papervision3d_18K/samples
+svn://subversion.t-3.com/chase/banners
+
+
+
+2009-11-18T23:54:43.479839Z
+546
+tim.harold
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+collada
+dir
+
+plane
+dir
+
+hotspot
+dir
+
+ase
+dir
+
+stars
+dir
+

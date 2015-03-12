@@ -1,0 +1,69 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/19154/qran/source/classes/application
+svn://subversion.t-3.com/chase/banners
+
+
+
+2010-08-16T14:40:26.348886Z
+760
+junie.threatt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+utils
+dir
+
+App.as
+file
+
+
+
+
+2010-05-11T22:42:39.000000Z
+1204f7931861ce866d1639751a6148d3
+2010-02-01T22:16:20.438523Z
+572
+junie.threatt
+has-props
+
+models
+dir
+
+events
+dir
+
+App2.as
+file
+
+
+
+
+2010-05-11T22:42:39.000000Z
+801b453d0bfc92635f579d8d07e39d63
+2010-01-18T00:02:28.675326Z
+568
+junie.threatt
+has-props
+
+jason
+dir
+
+views
+dir
+

@@ -1,0 +1,18 @@
+﻿<flash_project name="music" version="1">
+    <project_file path=".:120x600/CH_AHNW_music_120x600_child.fla" filetype="fla" profile="" />
+    <project_file path=".:120x600/CH_AHNW_music_120x600_parent.fla" filetype="fla" profile="" />
+    <project_file path=".:160x600/CH_AHNW_music_160x600_child.fla" filetype="fla" profile="" />
+    <project_file path=".:160x600/CH_AHNW_music_160x600_parent.fla" filetype="fla" profile="" />
+    <project_file path=".:250x250/CH_AHNW_music_250x250_child.fla" filetype="fla" profile="" />
+    <project_file path=".:250x250/CH_AHNW_music_250x250_parent.fla" filetype="fla" profile="" />
+    <project_file path=".:300x250/CH_AHNW_music_300x250_child.fla" filetype="fla" profile="" />
+    <project_file path=".:300x250/CH_AHNW_music_300x250_parent.fla" filetype="fla" profile="" />
+    <project_file path=".:300x600/CH_AHNW_music_300x600_child.fla" filetype="fla" profile="" />
+    <project_file path=".:300x600/CH_AHNW_music_300x600_parent.fla" filetype="fla" profile="" />
+    <project_file path=".:336x280/CH_AHNW_music_336x280_child.fla" filetype="fla" profile="" />
+    <project_file path=".:336x280/CH_AHNW_music_336x280_parent.fla" filetype="fla" profile="" />
+    <project_file path=".:336x850/CH_AHNW_music_336x850_child.fla" filetype="fla" profile="" />
+    <project_file path=".:336x850/CH_AHNW_music_336x850_parent.fla" filetype="fla" profile="" />
+    <project_file path=".:728x90/CH_AHNW_music_728x90_child.fla" filetype="fla" profile="" />
+    <project_file path=".:728x90/CH_AHNW_music_728x90_parent.fla" filetype="fla" profile="" />
+</flash_project>

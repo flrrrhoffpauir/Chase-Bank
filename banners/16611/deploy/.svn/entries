@@ -1,0 +1,54 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/16611/deploy
+svn://subversion.t-3.com/chase/banners
+
+
+
+2010-07-12T23:11:16.246662Z
+711
+junie.threatt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+16611_BizPlatinumLP.swf
+file
+
+
+
+
+2010-07-14T16:01:26.000000Z
+3716906285604e9331917c92bc8d9cec
+2010-07-12T23:11:16.246662Z
+711
+junie.threatt
+has-props
+
+16611_TravelPlus_lp.swf
+file
+
+
+
+
+2010-07-14T16:01:26.000000Z
+30675f166298915a1625ad1e0a3f6b24
+2010-07-12T23:11:16.246662Z
+711
+junie.threatt
+has-props
+

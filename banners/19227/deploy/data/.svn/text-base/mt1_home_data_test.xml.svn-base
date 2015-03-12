@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app>
+	<nav>
+		<navitem>
+			<id><![CDATA[0]]></id>
+			<image><![CDATA[HERO_19366_1.swf]]></image>
+			<hotspot>
+				<url><![CDATA[https://ultimaterewardsshop.chase.com/rewards/nav.do?dest=MerchHome]]></url>
+				<x_coord><![CDATA[600]]></x_coord>
+				<y_coord><![CDATA[138]]></y_coord>
+				<width><![CDATA[100]]></width>
+				<height><![CDATA[20]]></height>				
+				<visible><![CDATA[false]]></visible>
+				<openWin><![CDATA[true]]></openWin>
+			</hotspot>
+		</navitem>
+
+		<navitem>
+			<id><![CDATA[1]]></id>
+			<image><![CDATA[HERO_19366_2.swf]]></image>
+			<hotspot>
+				<url><![CDATA[https://ultimaterewardsshop.chase.com/rewards/nav.do?dest=MerchHome]]></url>
+				<x_coord><![CDATA[600]]></x_coord>
+				<y_coord><![CDATA[138]]></y_coord>
+				<width><![CDATA[100]]></width>
+				<height><![CDATA[20]]></height>				
+				<visible><![CDATA[false]]></visible>
+				<openWin><![CDATA[true]]></openWin>
+			</hotspot>
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[2]]></id>
+			<image><![CDATA[HERO_19366_3.swf]]></image>
+			<hotspot>
+				<url><![CDATA[https://ultimaterewardsearn.chase.com]]></url>
+				<x_coord><![CDATA[600]]></x_coord>
+				<y_coord><![CDATA[138]]></y_coord>
+				<width><![CDATA[100]]></width>
+				<height><![CDATA[20]]></height>				
+				<visible><![CDATA[false]]></visible>
+				<openWin><![CDATA[true]]></openWin>
+			</hotspot>
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[3]]></id>
+			<image><![CDATA[HERO_19366_4.swf]]></image>
+			<hotspot>
+				<url><![CDATA[https://ultimaterewardsearn.chase.com]]></url>
+				<x_coord><![CDATA[600]]></x_coord>
+				<y_coord><![CDATA[138]]></y_coord>
+				<width><![CDATA[100]]></width>
+				<height><![CDATA[20]]></height>				
+				<visible><![CDATA[false]]></visible>
+				<openWin><![CDATA[true]]></openWin>
+			</hotspot>
+		</navitem>
+				
+	</nav>
+
+	<pausetime><![CDATA[9]]></pausetime>
+	<accessibility><![CDATA[Sample accessibility text]]></accessibility>
+</app>

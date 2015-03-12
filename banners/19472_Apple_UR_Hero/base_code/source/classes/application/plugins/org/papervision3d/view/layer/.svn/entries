@@ -1,0 +1,79 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/19472_Apple_UR_Hero/base_code/source/classes/application/plugins/org/papervision3d/view/layer
+svn://subversion.t-3.com/chase/banners
+
+
+
+2010-04-15T20:16:52.453422Z
+614
+justin.shrier
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+ViewportLayerEvent.as
+file
+
+
+
+
+2010-05-11T22:43:13.000000Z
+739b74924716ff5d3afffe57eeab954c
+2010-04-15T20:16:52.453422Z
+614
+justin.shrier
+
+BitmapEffectLayer.as
+file
+
+
+
+
+2010-05-11T22:43:13.000000Z
+3dae467f15a31b2dbd256dfc2c42960b
+2010-04-15T20:16:52.453422Z
+614
+justin.shrier
+
+ViewportBaseLayer.as
+file
+
+
+
+
+2010-05-11T22:43:13.000000Z
+8f07956767b96a17e5c0b08f1953ec4f
+2010-04-15T20:16:52.453422Z
+614
+justin.shrier
+
+util
+dir
+
+ViewportLayer.as
+file
+
+
+
+
+2010-05-11T22:43:13.000000Z
+f146a221b3bcf567ceefc602152d077f
+2010-04-15T20:16:52.453422Z
+614
+justin.shrier
+

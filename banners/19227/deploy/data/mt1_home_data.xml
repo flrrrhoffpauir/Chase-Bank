@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app>
+	<nav>
+		<navitem>
+			<id><![CDATA[0]]></id>
+			<image><![CDATA[HER00102.swf]]></image>
+			<hotspot>
+				<url><![CDATA[https://demo.chaseultimaterewards.com?version=1]]></url>
+				<x_coord><![CDATA[580]]></x_coord>
+				<y_coord><![CDATA[138]]></y_coord>
+				<width><![CDATA[114]]></width>
+				<height><![CDATA[20]]></height>				
+				<visible><![CDATA[false]]></visible>
+				<openWin><![CDATA[true]]></openWin>
+			</hotspot>
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[1]]></id>
+			<image><![CDATA[HER00117.swf]]></image>
+			<hotspot>
+				<url><![CDATA[%LoyaltyCLSRoot%/shopping/viewpartners.do?rtype=Gift%20Certificates]]></url>
+				<x_coord><![CDATA[593]]></x_coord>
+				<y_coord><![CDATA[138]]></y_coord>
+				<width><![CDATA[101]]></width>
+				<height><![CDATA[20]]></height>				
+				<visible><![CDATA[false]]></visible>
+				<openWin><![CDATA[false]]></openWin>
+			</hotspot>
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[2]]></id>
+			<image><![CDATA[holiday_hero_flash.swf]]></image>
+			<hotspot>
+				<url><![CDATA[%LoyalitySecureRoot%/Shop.aspx]]></url>
+				<x_coord><![CDATA[558]]></x_coord>
+				<y_coord><![CDATA[138]]></y_coord>
+				<width><![CDATA[136]]></width>
+				<height><![CDATA[20]]></height>				
+				<visible><![CDATA[false]]></visible>
+				<openWin><![CDATA[false]]></openWin>
+			</hotspot>
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[3]]></id>
+			<image><![CDATA[HER00118.swf]]></image>
+			<hotspot>
+				<url><![CDATA[%LoyalitySecureRoot%/Earn.aspx]]></url>
+				<x_coord><![CDATA[595]]></x_coord>
+				<y_coord><![CDATA[138]]></y_coord>
+				<width><![CDATA[98]]></width>
+				<height><![CDATA[20]]></height>				
+				<visible><![CDATA[false]]></visible>
+				<openWin><![CDATA[false]]></openWin>
+			</hotspot>
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[4]]></id>
+			<image><![CDATA[HER00097.jpg]]></image>
+			<hotspot>
+				<url><![CDATA[%LoyalitySecureRoot%/Earn.aspx]]></url>
+				<x_coord><![CDATA[595]]></x_coord>
+				<y_coord><![CDATA[138]]></y_coord>
+				<width><![CDATA[98]]></width>
+				<height><![CDATA[20]]></height>				
+				<visible><![CDATA[false]]></visible>
+				<openWin><![CDATA[false]]></openWin>
+			</hotspot>
+		</navitem>
+	</nav>
+
+	<pausetime><![CDATA[5]]></pausetime>
+	<accessibility><![CDATA[Sample accessibility text]]></accessibility>
+</app>

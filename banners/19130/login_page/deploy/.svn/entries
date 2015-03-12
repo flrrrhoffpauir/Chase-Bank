@@ -1,0 +1,44 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/19130/login_page/deploy
+svn://subversion.t-3.com/chase/banners
+
+
+
+2010-02-16T21:04:54.571284Z
+584
+david.hezlep
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+swf
+dir
+
+intro.swf
+file
+
+
+
+
+2010-05-11T22:49:31.000000Z
+b5c11f96c9bc5a6342f95916bba43cb0
+2010-02-16T21:04:54.571284Z
+584
+david.hezlep
+has-props
+

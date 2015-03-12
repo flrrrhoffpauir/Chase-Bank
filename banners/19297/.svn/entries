@@ -1,0 +1,69 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/19297
+svn://subversion.t-3.com/chase/banners
+
+
+
+2010-02-03T23:02:59.958721Z
+577
+david.dinh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+HeroController.as
+file
+
+
+
+
+2010-05-11T22:39:17.000000Z
+7185e97dddd772cf3d105e3a533f276e
+2010-02-03T23:02:59.958721Z
+577
+david.dinh
+
+valentinehero.fla
+file
+
+
+
+
+2010-05-11T22:39:17.000000Z
+8e44c0fe795b4f3461a056ff822bff65
+2010-02-03T23:02:59.958721Z
+577
+david.dinh
+has-props
+
+gs
+dir
+
+haitihero.fla
+file
+
+
+
+
+2010-05-11T22:39:17.000000Z
+36a2179a7cadb7fd7575295bb3dc7167
+2010-01-22T23:14:00.039618Z
+569
+david.vo
+has-props
+

@@ -1,0 +1,85 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/17321
+svn://subversion.t-3.com/chase/banners
+
+
+
+2010-07-12T23:11:16.246662Z
+711
+junie.threatt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+17321_flash_mod_shell.fla
+file
+
+
+
+
+2009-09-23T13:31:54.000000Z
+6259939d5bfd3c6b63d11b796dbf2392
+2008-10-20T22:34:31.407099Z
+324
+junie.threatt
+has-props
+
+17321_flash_mod.tmproj
+file
+
+
+
+
+2009-09-23T13:31:54.000000Z
+0358928ebdd6cfb343af99df0fe400be
+2008-10-20T22:34:31.407099Z
+324
+junie.threatt
+
+_banners
+dir
+
+17321_flash_mod.swf
+file
+
+
+
+
+2010-07-14T16:01:21.000000Z
+c0b5831db4a7825f624af03945281032
+2010-07-12T23:11:16.246662Z
+711
+junie.threatt
+has-props
+
+17321_flash_mod.fla
+file
+
+
+
+
+2009-09-23T13:31:54.000000Z
+b3a71ccf0331df63e4286b484ec574e1
+2008-10-20T22:34:31.407099Z
+324
+junie.threatt
+has-props
+
+classes
+dir
+

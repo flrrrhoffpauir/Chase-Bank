@@ -1,0 +1,19 @@
+#debug {
+	border: none;
+	margin: 0;
+	
+}
+
+#debugContent {
+	float: right;
+	background: #AAD4E7;
+	padding: 5px;
+	font-size: 0.7em;
+	height: 100px;
+	font-family: Arial, "MS Trebuchet", sans-serif;
+}
+
+#chaseContent {
+	float: left;
+	
+}

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<verify_xml>
+	<vender_links>
+		<QA_Domain>
+			<LoyaltySecureRoot>https://ultimaterewardsq3.chase.com</LoyaltySecureRoot>
+			<LoyaltyReardenRoot>https://ultimaterewardsrcqa.chase.com</LoyaltyReardenRoot>
+			<LoyaltyCLSRoot>https://ultimaterewardspartnersqa.chase.com</LoyaltyCLSRoot>
+			<LoyaltyMallNetworksRoot>https://ultimaterewardsearnist2.chase.com</LoyaltyMallNetworksRoot>
+			<LoyaltyB2SRoot>https://ultimaterewardsshop01uat.chase.com</LoyaltyB2SRoot>
+			<LoyaltyTruitionRoot>https://ultimaterewardsltqa.chase.com</LoyaltyTruitionRoot>
+		</QA_Domain>
+		
+		<Breakfix_Domain>
+			<LoyaltySecureRoot>https://ultimaterewardsq5.chase.com</LoyaltySecureRoot>
+			<LoyaltyReardenRoot>https://ultimaterewardsrcpat.chase.com</LoyaltyReardenRoot>
+			<LoyaltyCLSRoot>https://ultimaterewardspartnersbf.chase.com</LoyaltyCLSRoot>
+			<LoyaltyMallNetworksRoot>https://ultimaterewardsearnist1.chase.com</LoyaltyMallNetworksRoot>
+			<LoyaltyB2SRoot>https://ultimaterewardsshop01ur_bf.chase.com</LoyaltyB2SRoot>
+			<LoyaltyTruitionRoot>https://ultimaterewardsltbf.chase.com</LoyaltyTruitionRoot>
+		</Breakfix_Domain>
+		
+		<PROD_Domain>
+			<LoyaltySecureRoot>https://ultimaterewards.chase.com</LoyaltySecureRoot>
+			<LoyaltyReardenRoot>https://ultimaterewardsrc.chase.com</LoyaltyReardenRoot>
+			<LoyaltyCLSRoot>https://ultimaterewardspartners.chase.com</LoyaltyCLSRoot>
+			<LoyaltyMallNetworksRoot>https://ultimaterewardsearn.chase.com</LoyaltyMallNetworksRoot>
+			<LoyaltyB2SRoot>https://ultimaterewardsshop.chase.com</LoyaltyB2SRoot>
+			<LoyaltyTruitionRoot>https://ultimaterewardslt.chase.com</LoyaltyTruitionRoot>
+		</PROD_Domain>
+	</vender_links>
+	
+	<safe_url>
+		<url_path>http://cig4s169.svr.bankone.net/</url_path>
+		<url_path>https://chaseonlineq1.chase.com/</url_path>
+		<url_path>https://chaseonlineq2.chase.com/</url_path>
+		<url_path>https://chaseonlineq3.chase.com/</url_path>
+		<url_path>https://chaseonlineq4.chase.com/</url_path>
+		<url_path>https://chaseonlineq5.chase.com/</url_path>
+		<url_path>https://chaseonlineq6.chase.com/</url_path>
+		<url_path>https://chaseonline.chase.com/</url_path>
+		<url_path>https://chaseonlineq1.chase.com</url_path>
+		<url_path>https://chaseonlineq2.chase.com</url_path>
+		<url_path>https://chaseonlineq3.chase.com</url_path>
+		<url_path>https://chaseonlineq4.chase.com</url_path>
+		<url_path>https://chaseonlineq5.chase.com</url_path>
+		<url_path>https://chaseonlineq6.chase.com</url_path>
+		<url_path>https://chaseonline.chase.com</url_path>
+		<url_path>https://ultimaterewardsshop.chase.com</url_path>
+		<url_path>https://ultimaterewardsshopqa.chase.com</url_path>
+		<url_path>https://ultimaterewardsshop01bf.chase.com</url_path>
+		<url_path>https://ultimaterewardsshop01ur_bf.chase.com</url_path>
+		<url_path>https://ultimaterewardsshop01uat.chase.com</url_path>
+		<url_path>https://ultimaterewardsshop01ur_uat.chase.com</url_path>
+		<url_path>https://ultimaterewards.chase.com</url_path>
+		<url_path>https://ultimaterewardsqX.chase.com</url_path>
+		<url_path>https://ultimaterewardsq1.chase.com</url_path>
+		<url_path>https://ultimaterewardsq2.chase.com</url_path>
+		<url_path>https://ultimaterewardsq3.chase.com</url_path>
+		<url_path>https://ultimaterewardsq4.chase.com</url_path>
+		<url_path>https://ultimaterewardsq5.chase.com</url_path>
+		<url_path>https://ultimaterewardsq6.chase.com</url_path>
+		<url_path>https://ultimaterewardspartners.chase.com</url_path>
+		<url_path>https://ultimaterewardspartnersqa.chase.com</url_path>
+		<url_path>https://ultimaterewardspartnersbf.chase.com</url_path>
+		<url_path>https://ultimaterewardsearn.chase.com</url_path>
+		<url_path>https://ultimaterewardsearnqa.chase.com</url_path>
+		<url_path>https://ultimaterewardsearnist1.chase.com</url_path>
+		<url_path>https://ultimaterewardsearnist2.chase.com</url_path>
+		<url_path>https://ultimaterewardsrc.chase.com</url_path>
+		<url_path>https://ultimaterewardsrcqa.chase.com</url_path>
+		<url_path>https://ultimaterewardsrcpat.chase.com</url_path>
+		<url_path>https://ultimaterewardslt.chase.com</url_path>
+		<url_path>https://ultimaterewardsltqa.chase.com</url_path>
+		<url_path>https://ultimaterewardsltbf.chase.com</url_path>
+		<!-- TESTING -->
+		<url_path>data</url_path>
+		<url_path>content/</url_path>
+		<url_path>chase.com</url_path>
+		<url_path>http://cig4s169.svr.bankone.net/</url_path>
+	</safe_url>
+</verify_xml>
+
+

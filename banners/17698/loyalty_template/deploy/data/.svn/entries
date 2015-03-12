@@ -1,0 +1,41 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/17698/loyalty_template/deploy/data
+svn://subversion.t-3.com/chase/banners
+
+
+
+2009-04-15T19:31:54.345273Z
+379
+junie.threatt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+data.xml
+file
+
+
+
+
+2009-09-23T13:29:07.000000Z
+f8b97791885c3ec9d7bbaab76bba2f83
+2009-04-15T19:31:54.345273Z
+379
+junie.threatt
+has-props
+

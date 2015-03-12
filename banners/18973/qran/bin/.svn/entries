@@ -1,0 +1,86 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/18973/qran/bin
+svn://subversion.t-3.com/chase/banners
+
+
+
+2010-02-26T17:33:30.138480Z
+585
+junie.threatt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+swfs
+dir
+
+Scripts
+dir
+
+data
+dir
+
+AC_RunActiveContent.js
+file
+
+
+
+
+2009-11-30T20:50:41.000000Z
+3e038cea960c1b650442b85cea237053
+2009-10-23T22:50:50.494302Z
+534
+tim.harold
+has-props
+
+home_hero1_v2_points.html
+file
+
+
+
+
+2009-11-30T20:50:41.000000Z
+63a4c33b47de5c6acc6c09a0eef6d76a
+2009-10-23T22:50:50.494302Z
+534
+tim.harold
+
+home_hero1_v1_cash.html
+file
+
+
+
+
+2009-11-30T20:50:41.000000Z
+74a6221de909f1d198f055a1b47322f6
+2009-10-23T22:50:50.494302Z
+534
+tim.harold
+
+index.htm
+file
+
+
+
+
+2009-11-30T20:50:41.000000Z
+b1a25772543aa3f2a2628a82bc2ba458
+2009-10-23T16:47:00.843289Z
+533
+tim.harold
+

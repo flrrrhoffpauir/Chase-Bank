@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app>
+	
+	<nav>
+			
+		<navitem>
+			<id><![CDATA[0]]></id>
+			<image><![CDATA[images/image0.png]]></image>
+			<hotspot>
+				<url><![CDATA[http://www.chase.com/]]></url>
+				<x_coord><![CDATA[520]]></x_coord>
+				<y_coord><![CDATA[140]]></y_coord>
+				<width><![CDATA[150]]></width>
+				<height><![CDATA[30]]></height>
+				<visible><![CDATA[true]]></visible>
+			</hotspot>
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[1]]></id>
+			<image><![CDATA[images/din_ent_hero1_v1.swf]]></image>
+			<hotspot>
+				<url><![CDATA[http://www.yahoo.com/]]></url>
+				<x_coord><![CDATA[520]]></x_coord>
+				<y_coord><![CDATA[150]]></y_coord>
+				<width><![CDATA[150]]></width>
+				<height><![CDATA[30]]></height>
+				<visible><![CDATA[true]]></visible>
+			</hotspot>
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[2]]></id>
+			<image><![CDATA[images/image2.png]]></image>
+			<hotspot>
+				<url><![CDATA[http://www.adobe.com/]]></url>
+				<x_coord><![CDATA[520]]></x_coord>
+				<y_coord><![CDATA[155]]></y_coord>
+				<width><![CDATA[150]]></width>
+				<height><![CDATA[30]]></height>
+				<visible><![CDATA[true]]></visible>
+			</hotspot>
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[3]]></id>
+			<image><![CDATA[images/image3.png]]></image>
+			<hotspot>
+				<url><![CDATA[http://www.nytimes.com/]]></url>
+				<x_coord><![CDATA[520]]></x_coord>
+				<y_coord><![CDATA[170]]></y_coord>
+				<width><![CDATA[150]]></width>
+				<height><![CDATA[30]]></height>
+				<visible><![CDATA[true]]></visible>
+			</hotspot>
+		</navitem>
+			
+	</nav>
+	
+	<pausetime><![CDATA[3]]></pausetime>
+	<accessibility><![CDATA[Sample accessibility text]]></accessibility>
+</app>

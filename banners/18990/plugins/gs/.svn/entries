@@ -1,0 +1,89 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/18990/plugins/gs
+svn://subversion.t-3.com/chase/banners
+
+
+
+2009-10-09T22:01:45.883894Z
+506
+junie.threatt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+utils
+dir
+
+plugins
+dir
+
+TweenGroup.as
+file
+
+
+
+
+2009-11-30T20:50:11.000000Z
+420c3368c3b708e09350c3388f7c97f6
+2009-10-09T22:01:45.883894Z
+506
+junie.threatt
+has-props
+
+TweenLite.as
+file
+
+
+
+
+2009-11-30T20:50:11.000000Z
+108bdad3f975abc7732a1237addb5c32
+2009-10-09T22:01:45.883894Z
+506
+junie.threatt
+has-props
+
+OverwriteManager.as
+file
+
+
+
+
+2009-11-30T20:50:11.000000Z
+be35114d7a8a19649e4f722a4d714070
+2009-10-09T22:01:45.883894Z
+506
+junie.threatt
+has-props
+
+easing
+dir
+
+TweenMax.as
+file
+
+
+
+
+2009-11-30T20:50:11.000000Z
+f7d539d3dc7ba1d6b3f0ae00787ded9f
+2009-10-09T22:01:45.883894Z
+506
+junie.threatt
+has-props
+

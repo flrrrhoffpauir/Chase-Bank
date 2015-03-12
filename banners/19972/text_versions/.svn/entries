@@ -1,0 +1,40 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/19972/text_versions
+svn://subversion.t-3.com/chase/banners
+
+
+
+2010-08-06T15:57:14.413763Z
+756
+tim.harold
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+Travel_text
+dir
+
+Hotels_text
+dir
+
+CustomerService_text
+dir
+
+25PercentMore_text
+dir
+

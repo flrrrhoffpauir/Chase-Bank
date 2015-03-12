@@ -1,0 +1,54 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/17652/source/control/org/papervision3d/cameras
+svn://subversion.t-3.com/chase/banners
+
+
+
+2008-10-28T19:26:15.266488Z
+342
+junie.threatt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+Camera3D.as
+file
+
+
+
+
+2009-09-23T13:23:48.000000Z
+95043a33556004780439e44c9a27bf59
+2008-10-28T19:26:15.266488Z
+342
+junie.threatt
+has-props
+
+FreeCamera3D.as
+file
+
+
+
+
+2009-09-23T13:23:48.000000Z
+748bc48ad1d02f9719c6f126a1aa6535
+2008-10-28T19:26:15.266488Z
+342
+junie.threatt
+has-props
+

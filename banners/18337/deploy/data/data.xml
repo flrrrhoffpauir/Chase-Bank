@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app>
+	
+	<nav>
+			
+		<navitem>
+			<id><![CDATA[0]]></id>
+			<image><![CDATA[images/18337_panel1.swf]]></image>
+			<hotspot>
+				<url><![CDATA[http://www.chase.com/]]></url>
+				<x_coord><![CDATA[30]]></x_coord>
+				<y_coord><![CDATA[235]]></y_coord>
+				<width><![CDATA[150]]></width>
+				<height><![CDATA[30]]></height>
+				<visible><![CDATA[false]]></visible>
+				<accText>Learn more about rewards options</accText>
+			</hotspot>
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[1]]></id>
+			<image><![CDATA[images/18337_panel2.swf]]></image>
+			<hotspot>
+				<url><![CDATA[http://www.yahoo.com/]]></url>
+				<x_coord><![CDATA[30]]></x_coord>
+				<y_coord><![CDATA[235]]></y_coord>
+				<width><![CDATA[150]]></width>
+				<height><![CDATA[30]]></height>
+				<visible><![CDATA[false]]></visible>
+				<accText>Learn more about unlimited earning</accText>
+			</hotspot>
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[2]]></id>
+			<image><![CDATA[images/18337_panel3.swf]]></image>
+			<hotspot>
+				<url><![CDATA[http://www.adobe.com/]]></url>
+				<x_coord><![CDATA[30]]></x_coord>
+				<y_coord><![CDATA[235]]></y_coord>
+				<width><![CDATA[150]]></width>
+				<height><![CDATA[30]]></height>
+				<visible><![CDATA[false]]></visible>
+				<accText>Learn more about the Ink Card</accText>
+			</hotspot>
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[3]]></id>
+			<image><![CDATA[images/18337_panel4.swf]]></image>
+			<hotspot>
+				<url><![CDATA[http://www.nytimes.com/]]></url>
+				<x_coord><![CDATA[30]]></x_coord>
+				<y_coord><![CDATA[235]]></y_coord>
+				<width><![CDATA[150]]></width>
+				<height><![CDATA[30]]></height>
+				<visible><![CDATA[false]]></visible>
+				<accText>Learn more about powerful tools</accText>
+			</hotspot>
+		</navitem>
+			
+	</nav>
+	
+	<pausetime><![CDATA[7]]></pausetime>
+	<accessibility><![CDATA[ 
+		INTRODUCING INK S M WITH ULTIMATE REWARDS S M UNLIMITED REWARDS OPTIONS Book restriction-free airfare. Shop millions of products. Get cash back and much more with Ultimate Rewards.
+		NO DOLLAR GOES UNREWARDED Reward points never expire, plus there’s no limit to how much you and your employees can earn.
+		MAKE YOUR MARK S M With no annual fee, the Ink Card gives you unlimited reward options. For premium travel benefits, choose the Ink Plus Card.
+		POWERFUL BUSINESS TOOLS Monitor employee spending and control expenses 24 hours a day online.
+		 ]]></accessibility>
+</app>

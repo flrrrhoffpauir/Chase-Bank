@@ -1,0 +1,78 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/18300/trunk/deploy
+svn://subversion.t-3.com/chase/banners
+
+
+
+2009-08-17T21:50:31.579634Z
+433
+anthony.nguyen
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+18300_The_Way_Combo_728x360 Report.txt
+file
+
+
+
+
+2009-09-23T13:46:15.000000Z
+aafc35f74a0b546cf705ae95bedee11b
+2009-08-10T14:43:50.940364Z
+430
+anthony.nguyen
+
+18300_The_Way_Combo_728x360.swf
+file
+
+
+
+
+2009-09-23T13:46:15.000000Z
+293b6849b918df9344685fdb3b6bedbe
+2009-08-10T17:47:18.739738Z
+431
+anthony.nguyen
+has-props
+
+18300_The_Way_Combo_728x360.jpg
+file
+
+
+
+
+2009-09-23T13:46:15.000000Z
+4509dd252c8c2f359e9b2e94af078fb6
+2009-08-17T21:50:31.579634Z
+433
+anthony.nguyen
+has-props
+
+18300_JAWS.txt
+file
+
+
+
+
+2009-09-23T13:46:15.000000Z
+e6126a5abff1397cefaaf76e6342354d
+2009-08-17T21:50:31.579634Z
+433
+anthony.nguyen
+

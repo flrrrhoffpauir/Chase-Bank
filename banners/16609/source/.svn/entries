@@ -1,0 +1,70 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/16609/source
+svn://subversion.t-3.com/chase/banners
+
+
+
+2008-06-20T23:05:23.951721Z
+184
+tim.harold
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+test.fla
+file
+
+
+
+
+2009-09-23T13:26:35.000000Z
+8def256b0f622f099b99e6bd299d454d
+2008-06-09T16:22:51.253009Z
+164
+junie.threatt
+has-props
+
+16609_retailBiz_interstitial.fla
+file
+
+
+
+
+2009-09-23T13:26:35.000000Z
+aa22d636f17968b43be5d5aa9189cb89
+2008-06-20T23:05:23.951721Z
+184
+tim.harold
+has-props
+
+classes
+dir
+
+test.swf
+file
+
+
+
+
+2009-09-23T13:26:35.000000Z
+dafc1180671eae5574ad3eb5af303951
+2008-06-09T16:22:51.253009Z
+164
+junie.threatt
+has-props
+

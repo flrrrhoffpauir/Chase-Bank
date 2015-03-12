@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app>
+	<nav>
+		<navitem>
+			<id><![CDATA[0]]></id>
+			<image><![CDATA[19472_Apple_UR_Hero.swf]]></image>
+			<hotspot>
+				<url><![CDATA[http://www.ultimaterewards.com/ipod]]></url>
+				<x_coord><![CDATA[596]]></x_coord>
+				<y_coord><![CDATA[82]]></y_coord>
+				<width><![CDATA[98]]></width>
+				<height><![CDATA[18]]></height>				
+				<visible><![CDATA[true]]></visible>
+				<openWin><![CDATA[true]]></openWin>
+			</hotspot>
+		</navitem>		
+	</nav>
+	<pausetime><![CDATA[9]]></pausetime>
+	<accessibility><![CDATA[Sample accessibility text]]></accessibility>
+</app>

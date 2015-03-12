@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<app>
+	<nav>
+		<navitem>
+			<id><![CDATA[0]]></id>
+			<image><![CDATA[content/ecpweb/loyalty/image/HER99999.jpg]]></image>
+			<hotspot>
+				<url><![CDATA[https://ultimaterewardsq3.chase.com]]></url>
+				<x_coord><![CDATA[717]]></x_coord>
+				<y_coord><![CDATA[301]]></y_coord>
+				<width><![CDATA[1]]></width>
+				<height><![CDATA[1]]></height>				
+				<visible><![CDATA[false]]></visible>
+				<openWin><![CDATA[false]]></openWin>
+			</hotspot>
+		</navitem>
+	</nav>
+
+	<pausetime><![CDATA[9]]></pausetime>
+	<accessibility><![CDATA[Sample accessibility text]]></accessibility>
+</app>

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<data>
+	
+	<section title="everything">
+		<row id="1"> 
+			<item>
+				<image url="swf/everything_5.swf" offsetx="" offsety=""/>
+				<bow xpos="-10" ypos="25" />
+				<txt shortBox="0"><![CDATA[Pay yourself back for any purchase.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/everything_6.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="1"><![CDATA[Turn points into cash back.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/travel_5.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="0"><![CDATA[Book your trip with our online tool.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/everything_8.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="0"><![CDATA[Take the ride of your life with thrilling sports experiences.]]></txt>
+				<link url="" />
+			</item>
+		</row>
+		<row id="2"> 
+			<item>
+				<image url="swf/everything_1.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="1"><![CDATA[Leap into exciting adventures.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/everything_2.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="0"><![CDATA[Earn faster at online retailers, like ProFlowers.com.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/everything_3.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="1"><![CDATA[Over 60 gift card options.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/everything_4.swf" offsetx="" offsety=""/>
+				<bow xpos="-30" ypos="-20" />
+				<txt shortBox="1"><![CDATA[Use points for a new driver.]]></txt>
+				<link url="" />
+			</item>
+		</row>
+	</section>
+	
+	<section title="travel">
+		<row id="1"> 
+			<item>
+				<image url="swf/travel_5.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="0"><![CDATA[Hit the beach with flexible travel rewards that never expire.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/travel_6.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="0"><![CDATA[Dive into family vacation packages.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/travel_7.swf" offsetx="" offsety=""/>
+				<bow xpos="15" ypos="" />
+				<txt shortBox="0"><![CDATA[Flexible points with no limits or expiration.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/travel_8.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="0"><![CDATA[Set sail on your choice of travel getaway.]]></txt>
+				<link url="" />
+			</item>
+		</row>
+		<row id="2"> 
+			<item>
+				<image url="swf/travel_1.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="0"><![CDATA[Earn double rewards when you book online.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/travel_2.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="0"><![CDATA[Sightseeing tours to top destinations.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/travel_3.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="0"><![CDATA[Fly on most major airlines – no restrictions.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/travel_4.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="0"><![CDATA[Travel gift cards for theme parks, hotels and more.]]></txt>
+				<link url="" />
+			</item>
+		</row>
+	</section>
+	
+	<section title="cash back">
+		<row id="1"> 
+			<item>
+				<image url="swf/cashback_5.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="0"><![CDATA[Buy it on the spot and pay yourself back.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/cashback_6.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="0"><![CDATA[Shop anywhere, pay yourself back with points.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/cashback_7.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="1"><![CDATA[Redeem rewards for a check.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/cashback_8.swf" offsetx="" offsety=""/>
+				<bow xpos="5" ypos="20" />
+				<txt shortBox="1"><![CDATA[Take a class, using points to pay.]]></txt>
+				<link url="" />
+			</item>
+		</row>
+		<row id="2"> 
+			<item>
+				<image url="swf/cashback_1.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="1"><![CDATA[Turn points into a night out.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/cashback_2.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="0"><![CDATA[Reward your wallet with cash back.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/cashback_3.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="0"><![CDATA[Customize rewards by using points for any purchase.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/cashback_4.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Pay yourself back for anything – big or small.]]></txt>
+				<link url="" />
+			</item>
+		</row>
+	</section>
+	
+	<section title="gift cards">
+		<row id="1"> 
+			<item>
+				<image url="swf/gc_5.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Find the right gift card for any occasion.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/gc_6.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Treat yourself to a shopping spree.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/gc_7.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="1"><![CDATA[Give the gift of fine dining.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/gc_8.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="1"><![CDATA[Find gifts for the whole family.]]></txt>
+				<link url="" />
+			</item>
+		</row>
+		<row id="2"> 
+			<item>
+				<image url="swf/gc_1.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Take your pick of gift cards from over 60 partners.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/gc_2.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Find every kind of gift – from electronics to travel. ]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/gc_3.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Give the gift that’s always in fashion.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/gc_4.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Please anyone with gift cards for popular stores.]]></txt>
+				<link url="" />
+			</item>
+		</row>
+	</section>
+	
+	<section title="experiences">
+		<row id="1"> 
+			<item>
+				<image url="swf/experiences_5.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="20" />
+				<txt  shortBox="0"><![CDATA[Be captain for a day while learning to sail.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/experiences_6.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Expand your kitchen skills with a seasoned chef.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/experiences_7.swf" offsetx="" offsety=""/>
+				<bow xpos="10" ypos="" />
+				<txt  shortBox="0"><![CDATA[Sharpen your moves at private dance lessons.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/experiences_8.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="1"><![CDATA[Taste the best of wine country.]]></txt>
+				<link url="" />
+			</item>
+		</row>
+		<row id="2"> 
+			<item>
+				<image url="swf/experiences_1.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="1"><![CDATA[Set out on a culinary adventure.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/experiences_2.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Reach for the sky at rock climbing lessons.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/experiences_3.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="1"><![CDATA[Get VIP concert access.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/experiences_4.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Explore your creative side with art classes.]]></txt>
+				<link url="" />
+			</item>
+		</row>
+	</section>
+	
+	
+	<section title="merchandise">
+		<row id="1"> 
+			<item>
+				<image url="swf/merchandise_5.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Get everything you need for the little ones.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/merchandise_6.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="1"><![CDATA[Reward yourself with a great read.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/merchandise_7.swf" offsetx="" offsety=""/>
+				<bow xpos="30" ypos="20" />
+				<txt  shortBox="0"><![CDATA[Find everything to liven up your landscape.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/merchandise_8.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Freshen your playlist with all the latest sounds.]]></txt>
+				<link url="" />
+			</item>
+		</row>
+		<row id="2"> 
+			<item>
+				<image url="swf/merchandise_1.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Find the best in home entertainment.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/merchandise_2.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="1"><![CDATA[Gear up with the latest gadgets.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/merchandise_3.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt shortBox="1"><![CDATA[Tackle your next home project.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/merchandise_4.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Get out and get fit with sports and outdoors gear.]]></txt>
+				<link url="" />
+			</item>
+		</row>
+	</section>
+	
+	<section title="endless earning">
+		<row id="1"> 
+			<item>
+				<image url="swf/earning_5.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Earn bonus points fast with great weekly online deals.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/earning_6.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Shop online and earn up to 10 bonus points per dollar.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/earning_7.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Boost your earning while shopping the bestsellers.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/earning_8.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Get bonus points just for shopping the latest styles.]]></txt>
+				<link url="" />
+			</item>
+		</row>
+		<row id="2"> 
+			<item>
+				<image url="swf/earning_1.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Earn rewards faster online at the Ultimate Rewards Mall.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/earning_2.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="1"><![CDATA[Get exclusive free shipping offers.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/earning_3.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Shop over 400 retailers at the Ultimate Rewards Mall.]]></txt>
+				<link url="" />
+			</item>
+			<item>
+				<image url="swf/earning_4.swf" offsetx="" offsety=""/>
+				<bow xpos="" ypos="" />
+				<txt  shortBox="0"><![CDATA[Compare prices and products with online shopping tools.]]></txt>
+				<link url="" />
+			</item>
+		</row>
+	</section>
+	
+
+
+
+
+</data>

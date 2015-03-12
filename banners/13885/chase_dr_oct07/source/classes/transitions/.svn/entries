@@ -1,0 +1,52 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/13885/chase_dr_oct07/source/classes/transitions
+svn://subversion.t-3.com/chase/banners
+
+
+
+2008-02-11T20:12:43.643393Z
+68
+tim.harold
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+Tweens.as
+file
+
+
+
+
+2009-09-23T13:36:28.000000Z
+dd9d8bdcf64cddcc232299396381ed8a
+2008-02-11T20:12:43.643393Z
+68
+tim.harold
+
+BannerMotion.as
+file
+
+
+
+
+2009-09-23T13:36:28.000000Z
+dcc5a9643d8b7f83f3e9a5a394a0d3e1
+2008-02-11T20:12:43.643393Z
+68
+tim.harold
+

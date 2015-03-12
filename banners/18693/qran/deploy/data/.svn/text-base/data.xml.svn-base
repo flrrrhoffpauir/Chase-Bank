@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<app>
+	
+	<nav>
+			
+		<navitem>
+			<id><![CDATA[0]]></id>
+			<image><![CDATA[swfs/get_pts_hero4_v4.swf]]></image>
+			<hotspot>
+				<url><![CDATA[http://www.chase.com/]]></url>
+				<x_coord><![CDATA[592]]></x_coord>
+				<y_coord><![CDATA[139]]></y_coord>
+				<width><![CDATA[102]]></width>
+				<height><![CDATA[18]]></height>
+				<visible><![CDATA[false]]></visible>
+			</hotspot>
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[1]]></id>
+			<image><![CDATA[swfs/home_hero3_v1.swf]]></image>
+			<hotspot>
+				<url><![CDATA[http://www.yahoo.com/]]></url>
+				<x_coord><![CDATA[558]]></x_coord>
+				<y_coord><![CDATA[139]]></y_coord>
+				<width><![CDATA[136]]></width>
+				<height><![CDATA[18]]></height>
+				<visible><![CDATA[false]]></visible>
+			</hotspot>
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[2]]></id>
+			<image><![CDATA[swfs/shop_hero1_v4.swf]]></image>
+			<hotspot>
+				<url><![CDATA[http://www.adobe.com/]]></url>
+				<x_coord><![CDATA[592]]></x_coord>
+				<y_coord><![CDATA[139]]></y_coord>
+				<width><![CDATA[102]]></width>
+				<height><![CDATA[18]]></height>
+				<visible><![CDATA[false]]></visible>
+			</hotspot>
+		</navitem>
+		
+		<navitem>
+			<id><![CDATA[3]]></id>
+			<image><![CDATA[swfs/shop_hero4_v1.swf]]></image>
+			<hotspot>
+				<url><![CDATA[http://www.nytimes.com/]]></url>
+				<x_coord><![CDATA[600]]></x_coord>
+				<y_coord><![CDATA[139]]></y_coord>
+				<width><![CDATA[93]]></width>
+				<height><![CDATA[18]]></height>
+				<visible><![CDATA[false]]></visible>
+			</hotspot>
+		</navitem>
+			
+	</nav>
+	
+	<pausetime><![CDATA[9]]></pausetime>
+	<accessibility><![CDATA[Sample accessibility text]]></accessibility>
+</app>

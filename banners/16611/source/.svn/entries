@@ -1,0 +1,57 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/16611/source
+svn://subversion.t-3.com/chase/banners
+
+
+
+2008-10-01T17:56:22.386427Z
+318
+danny.davidson
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+gs
+dir
+
+16611_BizPlatinumLP.fla
+file
+
+
+
+
+2009-09-23T13:32:03.000000Z
+861e7366ca77969e0fd16930eb546029
+2008-10-01T17:56:22.386427Z
+318
+danny.davidson
+has-props
+
+16611_TravelPlus_lp.fla
+file
+
+
+
+
+2009-09-23T13:32:03.000000Z
+00220bc02ecd8a15a091fefcb89a9688
+2008-10-01T15:04:35.268967Z
+317
+frank.duran
+has-props
+

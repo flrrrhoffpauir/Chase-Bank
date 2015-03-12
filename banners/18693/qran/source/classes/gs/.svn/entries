@@ -1,0 +1,105 @@
+8
+
+dir
+820
+svn://subversion.t-3.com/chase/banners/18693/qran/source/classes/gs
+svn://subversion.t-3.com/chase/banners
+
+
+
+2009-09-14T22:53:29.478718Z
+443
+junie.threatt
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b332cb3d-1314-cf43-bb4b-eabf7e6bd162
+
+utils
+dir
+
+plugins
+dir
+
+TweenGroup.as
+file
+
+
+
+
+2009-09-23T13:40:31.000000Z
+1073d12da6260df4d5b6973cc9f52d8d
+2009-09-14T22:53:29.478718Z
+443
+junie.threatt
+has-props
+
+TweenLite.as
+file
+
+
+
+
+2009-09-23T13:40:31.000000Z
+b56a5edb944d9f0a4cafa86e44dde4c6
+2009-09-14T22:53:29.478718Z
+443
+junie.threatt
+has-props
+
+OverwriteManager.as
+file
+
+
+
+
+2009-09-23T13:40:31.000000Z
+e6f8bfaa4d11103cc495f30588b40564
+2009-09-14T22:53:29.478718Z
+443
+junie.threatt
+has-props
+
+events
+dir
+
+easing
+dir
+
+TweenFilterLite.as
+file
+
+
+
+
+2009-09-23T13:40:31.000000Z
+b17aa0ff71ed7f8ca8ef858a8a0ae9b1
+2009-09-14T22:53:29.478718Z
+443
+junie.threatt
+has-props
+
+TweenMax.as
+file
+
+
+
+
+2009-09-23T13:40:31.000000Z
+4b32e15ff5a6f9cacb1ec44fd2c69f9a
+2009-09-14T22:53:29.478718Z
+443
+junie.threatt
+has-props
+
